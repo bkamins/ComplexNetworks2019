@@ -1,0 +1,13 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+FreqTables = "da1fdf0e-e0ff-5433-a45f-9bb5ff651cb1"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+WebIO = "0f1e0344-ec1d-5b48-a673-e5cf874b6c29"
