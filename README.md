@@ -30,3 +30,7 @@ All files needed for this part are stored in `day1` folder.
 After installing Julia You can run `julia 1_prepareenv.jl` command from system
 shell in the `day2` directory before the workshop
 (this will load and install all required packages).
+
+### Day 3-5 of the wokshop materials
+
+[Installation instructions and repository for materials for the days 3-5](https://github.com/pszufe/ComplexNetworks2019)
